@@ -6,15 +6,6 @@ Please read our [Team Code of Conduct](docs/CONDUCT.md) to understand our collab
 ![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)
 
 
-# Nurtured by Nature
-
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
-
-
 # 🌿 Nurtured by Nature
 
 A full-stack wellness application developed for an external client to help users discover outdoor activities, wellness resources, and stress-relief opportunities through an intuitive mobile experience.
